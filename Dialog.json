@@ -2,11 +2,11 @@
   "showAnnouncement": false,
   "announcementText": "⚠ New Update Clik Download !",
 
-  "showContactButton": false,
+  "showContactButton": true,
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https://t.me/deimos_public",
 
-  "showAnnouncementButton": false,
+  "showAnnouncementButton": true,
   "announcementButtonText": "DOWNLOAD MOD",
   "announcementButtonUrl": "https://download-apk.lovable.app"
 }
