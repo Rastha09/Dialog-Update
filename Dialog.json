@@ -6,7 +6,7 @@
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https://t.me/deimos_public",
 
-  "showAnnouncementButton": true,
+  "showAnnouncementButton": false,
   "announcementButtonText": "DOWNLOAD MOD",
   "announcementButtonUrl": "https://download-apk.lovable.app"
 }
